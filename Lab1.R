@@ -1,5 +1,6 @@
 # this gives the current wd
 getwd()
+#fggbngfn
 setwd("E:/eBooks/C-DAC/R Programming Lab")
 getwd()
 dir()
